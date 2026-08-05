@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project Specific
+dataset/*.csv
+dataset/*.txt
+dataset/*.zip
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
